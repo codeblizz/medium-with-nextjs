@@ -1,2 +1,2 @@
-# medium-with-nextjs
+# Medium-with-nextjs
 Create a prototype medium web application with nextJS, reactJS, tailwindCSS.
